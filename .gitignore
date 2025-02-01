@@ -1,0 +1,9 @@
+# Ignore object files
+*.o
+
+# Ignore target executable
+disk_pressure_monitor
+
+# Ignore other temporary files
+*.log
+*.tmp
